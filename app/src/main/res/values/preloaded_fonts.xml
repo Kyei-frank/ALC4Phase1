@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/candal</item>
+        <item>@font/chango</item>
+        <item>@font/lemon</item>
+        <item>@font/paytone_one</item>
+        <item>@font/rum_raisin</item>
+        <item>@font/spicy_rice</item>
+    </array>
+</resources>
