@@ -1,4 +1,5 @@
 #ALC 4.0 Phase 1 project
+
 This project shows a screen with navigation to two activities, where one shows a profile and the other shows the about page of Andela Learning Community on a WebView.
 
 Prerequisites
